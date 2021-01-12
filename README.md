@@ -1,2 +1,2 @@
 # HelloPython
-HellpPython
+HelloPython
