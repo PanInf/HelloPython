@@ -1,2 +1,0 @@
-# HelloPython
-HelloPython
