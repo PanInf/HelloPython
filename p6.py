@@ -1,1 +1,3 @@
 print("Gaaaa")
+
+print("MAAAAAA")
