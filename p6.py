@@ -4,3 +4,5 @@ print("MAAAAAA")
 
 
 print("BAAAAA")
+
+print("KAAAA")
